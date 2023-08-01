@@ -29,7 +29,8 @@ cd login-page
 
 ## Screenshots
 
-#######
+![login](<Web capture_1-8-2023_174837_127.0.0.1.jpeg>)
+![register](<Web capture_1-8-2023_17493_127.0.0.1.jpeg>)
 
 ## Contributing
 
